@@ -1,8 +1,8 @@
 # Olá, Seja bem vindo!
 
-# Projeto produzido durante a Quinta Semana de Imersão Node, React, React Native
+## Projeto produzido durante a Quinta Semana de Imersão Node, React, React Native
 
-# Instrutor: Celke.
+### Instrutor: Celke.
 [http://celke.com.br/](http://celke.com.br/)
 
 # Estrutura
